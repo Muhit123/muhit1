@@ -1,7 +1,7 @@
-![](https://img.shields.io/badge/lovehacker404-BlackMafia-orange?style=for-the-badge&logo=python.svg) 
+![](https://img.shields.io/badge/Mahmudur-Rahman-orange?style=for-the-badge&logo=python.svg) 
 <p align="center">
 <img src="blackmafia3.gif">
-<a href="#"><img title="Made in Pakistan" src="https://img.shields.io/badge/MADE%20IN-Pakistan-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="Made in Bangladesh" src="https://img.shields.io/badge/MADE%20IN-Pakistan-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
   <img alt="lovehacker404' Github Stats" src="https://github-readme-stats.vercel.app/api?username=lovehacker404&show_icons=true&include_all_commits=true&hide_border=true" />
@@ -9,7 +9,7 @@
 <!--  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=lovehacker404&hide=ruby,perl&hide_border=true" />  -->
 </p>
 <p align="center">
-<a href="#"><img title="WhatsApp Num" src="https://img.shields.io/badge/WhatsApp%20Num-03094161457-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="WhatsApp Num" src="https://img.shields.io/badge/WhatsApp%20Num-01726742497-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
 <img src="blackmafia5.gif">
@@ -43,7 +43,7 @@
 
 😈 `pip install lolcat`
 
-😈 `git clone https://github.com/lovehacker404/World`
+😈 `git clone https://github.com/Muhit123/muhit1`
 
 😈 `cd World`
 
